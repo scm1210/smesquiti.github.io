@@ -59,7 +59,8 @@ M.A. in Psychological Research \| Advisor: Dr. Randall Osborne
 B.A. in Psychology (Minor: Spanish)
 
 ## Funding & Fellowships
--  **2026-27** — Princeton Precision Health Graduate Fellowship (\$24,100)
+
+-   **2026-27** — Princeton Precision Health Graduate Fellowship (\$24,100)
 -   **2026** — Princeton University Data Driven Social Science Graduate Fellowship (\$1,200)
 -   **2025** — Princeton University Data Driven Social Science Graduate Fellowship (\$1,200)
 -   **2025** — Princeton University Data Driven Social Science: Data-Driven Approaches to Building Equitable Language-Based Mental Health Assessments (\$4,283)
@@ -74,9 +75,9 @@ B.A. in Psychology (Minor: Spanish)
 
 ## Publications
 
-::: {.pub-list}
--   **Mesquiti, S.**, Stade E. C., Hull, T.D., Nook, E. C. (Preprint). The Meaning of "I": Semantic Self-Representation Tracks Internalizing Symptoms Within and Across Persons in Psychotherapy. [DOI](https://doi.org/10.31234/osf.io/dngrh_v1)
--   Sahi, R. S., **Mesquiti, S.**, Hull, T. D., Vine, V., & Nook, E. C. (under revision). Affect labeling is linked with better mental health in psychotherapeutic conversations. *Nature Mental Health*.
+::: pub-list
+-   **Mesquiti, S.**, Stade E. C., Hull, T.D., Nook, E. C. (Submitted). The Meaning of "I": Semantic Self-Representation Tracks Internalizing Symptoms Within and Across Persons in Psychotherapy. [DOI](https://doi.org/10.31234/osf.io/dngrh_v1)
+-   Sahi, R. S., **Mesquiti, S.**, Hull, T. D., Vine, V., & Nook, E. C. (Under Revision). Affect labeling is linked with better mental health in psychotherapeutic conversations. *Nature Mental Health*.
 -   **Mesquiti, S.** & Nook, E.C. (2026). Large Language Models in Mental Health Treatment and Research. *Annual Reviews BioMedical Data Science*. [DOI](https://www.annualreviews.org/content/journals/10.1146/annurev-biodatasci-092524-113527)
 -   **Mesquiti, S.**, Cosme, D., Nook, E.C., Falk E.B., Burns S. (2026). Predicting Psychological and Subjective Well-being through Language-based Assessments of Well-being. *Communications Psychology*. [DOI](https://www.nature.com/articles/s44271-026-00400-3)
 -   Muzekari, B., Cooper, N., Resnick, A., Paul, A. M., Torres-Grillo, O. E., Andrews, M. E., Mattan, B., Scholz, C., Johnson, D., Carreras-Tartak, J., Cakar, M. E., Hao, S., Zhou, E., Beard, E., **Mesquiti, S.**, Sayed, F., Fichman, M. A., Lydon-Staley, D. M., Barnett, I. J., … Falk, E. B. (2025). Naturalistic Tobacco Retail Exposure and Smoking Outcomes in Adults Who Smoke Cigarettes Daily. *JAMA Network Open*. [DOI](https://doi.org/10.1001/jamanetworkopen.2025.30132)
@@ -87,8 +88,8 @@ B.A. in Psychology (Minor: Spanish)
 
 ## Works in Progress
 
-::: {.pub-list}
--   **Mesquiti, S.**, Carey, R. M., Daw, N. & Nook, E. C. (in prep). Racial differences in the linguistic markers and machine learning prediction of internalizing symptoms.
+::: pub-list
+-   **Mesquiti, S.**, Carey, R. M., Daw, N. & Nook, E. C. (in prep). Language-Based Mental Health Assessments Do Not Perform Evenly Across Racial and Ethnic Groups
 -   Kang, Y., **Mesquiti, S.** & Falk, E. B. (in prep). The Effect of Compassion Training on Emotional Support Giving.
 :::
 
@@ -104,7 +105,7 @@ B.A. in Psychology (Minor: Spanish)
 
 ## Conference Presentations
 
-::: {.pub-list}
+::: pub-list
 -   **Mesquiti, S.**, Carey, R. M., Daw, N., & Nook, E. C. (2026). Investigating Racial Equity of Psycholinguistic Measures of Mental Health. Oral presentation to be presented at the annual meeting of the Society for Research in Psychopathology. Columbus, OH.
 -   Huang, E., Whiting, C., **Mesquiti, S.**, Baran, S. S., & Nook, E. C. (2026). Linguistic markers of self-representation reflect emotional experiences in expressive writing. Poster presentation at the annual meeting of the Society for Research in Psychopathology. Columbus, OH.
 -   **Mesquiti, S.**, Stade E. C., Hull, T.D., Nook, E. C. (2026). Tracking shifts in the latent meaning of "I" and its connection to mental health outcomes in a large therapy dataset. Poster presentation at the annual meeting of the Society for Affective Science. Pittsburgh, PA.
@@ -135,10 +136,10 @@ B.A. in Psychology (Minor: Spanish)
 ## Skills
 
 **Natural Language Processing & Computational Linguistics**\
-Transformer-based language models, semantic projection & embedding-based measurement, topic modeling (LDA), dictionary-based methods (DLATK), language-based mental health assessment.
+Transformer-based language models, semantic projection & embedding-based measurement, topic modeling (LDA), dictionary-based methods, language-based assessments.
 
 **Machine Learning & Statistical Methods**\
-Supervised learning & fine-tuning (LoRA/PEFT), ridge regression, mixed-effects/multilevel modeling, moderation & mediation analysis.
+Supervised learning & fine-tuning, ridge regression, mixed-effects/multilevel modeling, moderation & mediation analysis.
 
 **Programming & Computing**\
 R (proficient), Python (moderate), SQL, Bash, reproducible research (Quarto)
@@ -152,6 +153,7 @@ Longitudinal & clinical text data, large-scale social media data, within- and be
 -   Clinical Psychological Science
 -   Journal of Medical Internet Research
 -   Personality and Social Psychology Bulletin
+-   Scientific Reports
 
 ## References
 
